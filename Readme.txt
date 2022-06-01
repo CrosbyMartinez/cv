@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Curriculum Vitae
+Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: Crosby Martínez
+Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
